@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. PhD Student, Formal Methods
+subtitle: <a href='#'>Affiliations</a>. ODUCS PhD Student, Formal Methods
 
 profile:
   align: right
@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Under Construction
+Figuring things out.
