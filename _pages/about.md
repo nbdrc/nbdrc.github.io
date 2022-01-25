@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. ODUCS PhD Student, Formal Methods
+subtitle: ODUCS PhD Student, Formal Methods
 
 profile:
   align: right
@@ -19,4 +19,14 @@ social: true  # includes social icons at the bottom of the page
 
 Figuring things out. 
 
-Hello! I am Nathan Dearce. I am a PhD student at Old Dominion University. My advisor is [Dr. Andrey Chernikov](https://www.cs.odu.edu/~achernik/). My research interests are in the field of formal methods, artificial intelligence, and computational origami.
+Hello! I am Nathan Dearce. I am a PhD student at Old Dominion University. My advisor is [Dr. Andrey Chernikov](https://www.cs.odu.edu/~achernik/). My research interests are in the field of formal methods and artificial intelligence. 
+
+Education
+---
+- PhD
+   - Old Dominion University 2021 -
+- Master of Science
+   - Old Dominion University 2018 - 2021
+- Bachelor of Science
+   - Old Dominion University 2015 - 2018
+

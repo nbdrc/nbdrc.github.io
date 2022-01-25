@@ -8,6 +8,5 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Under Construction
 <!-- pages/projects.md -->
 

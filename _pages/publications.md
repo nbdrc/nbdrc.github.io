@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Under Construction
+description: On its way
 years: 
 nav: true
 ---
