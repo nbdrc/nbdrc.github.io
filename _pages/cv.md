@@ -2,8 +2,8 @@
 layout: cv 
 title: CV 
 description: One Day
-permalink: /cv
-nav: false
+permalink: /cv/
+nav: true
 ---
 # Nathaniel Dearce
 PhD Student, Formal Methods 
