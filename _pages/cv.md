@@ -3,7 +3,7 @@ layout: cv
 title: CV 
 description: One Day
 permalink: /
-nav: true
+nav: false
 ---
 # Nathaniel Dearce
 PhD Student, Formal Methods 
