@@ -1,6 +1,8 @@
 ---
 layout: cv 
 title: Nathan Dearce's CV 
+description: One Day
+nav: true
 ---
 # Nathaniel Dearce
 PhD Student, Formal Methods 
