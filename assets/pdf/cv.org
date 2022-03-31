@@ -1,0 +1,18 @@
+#+TITLE: Cv
+#+AUTHOR: Nathaniel Dearce
+#+EXPORT_FILE_NAME ./cv.pdf
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+OPTIONS: toc:nil title:nil H:1
+
+\name{Nathan Dearce}
+\personalinfo{%
+    \homepage{www.cs.odu.edu/~cs_ndear001}
+    \email{ndear001.odu.edu}
+    \phone{+757 389 3922}
+    \location{Norfolk, VA, USA}
+    \github{ndbdrc}
+}
+\makecvheader
+
+* Education
