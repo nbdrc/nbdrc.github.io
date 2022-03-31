@@ -9,7 +9,7 @@ nav: false
 PhD Student, Formal Methods 
 
 <div id="webaddress">
-<a href="mailto:ndear001@odu.edu><ndear001@odu.edu></a>
+<a href="mailto:ndear001@odu.edu"><ndear001@odu.edu></a>
 |
 <i class="fa fa-github"></i> <a href="https://github.com/nbdrc">nbdrc</a>
 |
