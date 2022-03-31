@@ -2,7 +2,7 @@
 layout: cv 
 title: CV 
 description: One Day
-permalink: /
+permalink: /cv
 nav: false
 ---
 # Nathaniel Dearce
