@@ -1,6 +1,6 @@
 ---
 layout: cv 
-title: Nathan Dearce's CV 
+title: CV 
 description: One Day
 nav: true
 ---
