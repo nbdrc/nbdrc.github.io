@@ -1,6 +1,6 @@
 ---
 layout: cv 
-title: CV 
+title: cv 
 description: One Day
 permalink: /cv/
 nav: true
