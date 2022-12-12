@@ -1,11 +1,12 @@
 ---
-<<<<<<< HEAD
-layout: cv 
-title: cv 
-description: One Day
+layout: cv
 permalink: /cv/
+title: cv
 nav: true
+nav_order: 4
+cv_pdf: example_pdf.pdf
 ---
+
 # Nathaniel Dearce
 PhD Student, Formal Methods 
 
@@ -58,12 +59,4 @@ PhD. Computer Science
 <!-- ### Footer
 
 Last update: March 2022-->
-=======
-layout: cv
-permalink: /cv/
-title: cv
-nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
----
->>>>>>> b9f1fc84f2c36799c2f68f66d4cf9da1b64295ec
+

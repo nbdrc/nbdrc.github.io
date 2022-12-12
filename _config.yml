@@ -16,16 +16,11 @@ footer_text: >
 keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-<<<<<<< HEAD
 icon:  # the emoji used as the favicon
 url: https://nbdrc.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-=======
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
->>>>>>> b9f1fc84f2c36799c2f68f66d4cf9da1b64295ec
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -75,21 +70,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: nbdrc # your GitHub user name
 gitlab_username: # your GitLab user name
-<<<<<<< HEAD
 twitter_username: nb_drc # your Twitter handle
 linkedin_username: nathaniel-dearce-138bb5163 # your LinkedIn user name
 scholar_userid: TEOb9AIAAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-5057-4764 # your ORCID ID
-=======
-twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
->>>>>>> b9f1fc84f2c36799c2f68f66d4cf9da1b64295ec
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -126,14 +113,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
 blog_name:   # your blog must have a name for it to show up in the nav bar
 blog_description: 
-=======
-blog_name: al-folio # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
->>>>>>> b9f1fc84f2c36799c2f68f66d4cf9da1b64295ec
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -267,13 +249,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-<<<<<<< HEAD
   last_name: Dearce
   first_name: [Nathan, N.]
-=======
-  last_name: [Einstein]
-  first_name: [Albert, A.]
->>>>>>> b9f1fc84f2c36799c2f68f66d4cf9da1b64295ec
 
   style: apa
   locale: en
