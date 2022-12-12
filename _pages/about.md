@@ -7,6 +7,7 @@ subtitle: ODUCS PhD Student, Formal Methods
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p>ECSB 332O</p>
     <p>4600 Elkhorn Ave </p>
